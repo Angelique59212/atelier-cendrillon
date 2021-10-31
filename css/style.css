@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Zen Antique', serif;
+    width: 80%;
+    margin: 0 auto;
+    background-image: url("/img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    width: 100%;
+    text-shadow: 0 0 9px grey;
+    font-weight: bold;
+    font-size: 2.1rem;
+    text-align: center;
+    color: deeppink;
+}
+
+main {
+    width: 42%;
+    padding: 7rem;
+    margin-left: 38rem;
+    color: deepskyblue;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#size {
+    font-size: 2.3rem;
+}
+
+span {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+p {
+    font-weight: bold;
+    padding: 0.8rem;
+    font-size: 2rem;
+    color: azure;
+}
+
+#rdv {
+    width: 30%;
+    padding: 10rem;
+    float: right;
+}
+
+#cendrillon {
+    width: 100%;
+}
+
+#text {
+    width: 100%;
+}
+
+#friends {
+    width: 32%;
+    float: right;
+    padding: 7rem;
+}
+
+#image {
+    width: 100%;
+}
+
+#container {
+    width: 20%;
+    display: inline-block;
+}
+
+#advantage {
+    display: inline-block;
+    margin-left: 21rem;
+    width: 15%;
+}
+
+#second {
+    font-size: 2rem;
+}
+
+#menage {
+    width: 40%;
+    float: right;
+}
+
+#menage-second {
+    width: 37%;
+}
